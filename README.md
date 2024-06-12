@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Zain Rashid</h1>
 <h3 align="center">A passionate Electronics Engineer & certified IOT Developer</h3>
-
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzainrashid&label=Profile%20views&color=0e75b6&style=flat" alt="syedzainrashid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedzainrashid" alt="syedzainrashid" /></a> </p>
