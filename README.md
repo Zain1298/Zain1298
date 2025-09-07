@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
-- 📝 I regularly write articles on [https://medium.com/@s-zainrashid98](https://medium.com/@s-zainrashid98)
-
 - 📫 How to reach me **s.zainrashid98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
